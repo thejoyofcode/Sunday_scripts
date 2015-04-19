@@ -3,7 +3,7 @@
 ##########################################################
 # This script will download the split gap minder zip file,
 # unzip it,and archieve the data 
-# Add more info
+# Add more info !!!
 ##########################################################
 
 
